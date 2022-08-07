@@ -8,6 +8,12 @@ The first uses an optimization technique for two images, a content image and a s
 ![style](Style_Transfer_Individual/style_images/zelda.jpg) 
 ![finished](Style_Transfer_Individual/finished_transfers/castle+zelda.png)
 
+<p float="left">
+  <img src="Style_Transfer_Individual/style_images/zelda.jpg" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="Style_Transfer_Individual/finished_transfers/castle+zelda.png" width="100" />
+</p>
+
 The second is a Fast Style Transfer algorithm that trains
 
 
