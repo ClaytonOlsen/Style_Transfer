@@ -12,6 +12,6 @@ Content Image             | Style Image             |  Output Image
 <img src="https://storage.googleapis.com/khanhlvg-public.appspot.com/arbitrary-style-transfer/belfry-2611573_1280.jpg" width="325" />   | <img src="Style_Transfer_Individual/style_images/8bit.jpg" width="325" />  |  <img src="Style_Transfer_Individual/finished_transfers/castle_8bit.png" width="325" />
 
 
-The second is a Fast Style Transfer algorithm that trains
+The second is a Fast Style Transfer algorithm we train a model using the style_content loss method to train a feed-forward network.
 
 
