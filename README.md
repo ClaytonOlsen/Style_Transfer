@@ -9,7 +9,6 @@ The first uses an optimization technique for two images, a content image and a s
 Content Image             | Style Image             |  Output Image
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://storage.googleapis.com/khanhlvg-public.appspot.com/arbitrary-style-transfer/belfry-2611573_1280.jpg" width="325" />   | <img src="Style_Transfer_Individual/style_images/zelda.jpg" width="325" />  |  <img src="Style_Transfer_Individual/finished_transfers/castle+zelda.png" width="325" />
-:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://storage.googleapis.com/khanhlvg-public.appspot.com/arbitrary-style-transfer/belfry-2611573_1280.jpg" width="325" />   | <img src="Style_Transfer_Individual/style_images/8bit.jpg" width="325" />  |  <img src="Style_Transfer_Individual/finished_transfers/castle_8bit.png" width="325" />
 
 
