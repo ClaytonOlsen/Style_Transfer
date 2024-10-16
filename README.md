@@ -16,5 +16,4 @@ The second is a Fast Style Transfer algorithm we train a model using the style_c
 
 Content Image             | Style Image             |  Output Image
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="Fast_Style_Transfer//fast_style_transer.png
-" width="325" /> 
+<img src="Fast_Style_Transfer//fast_style_transer.png" width="325" /> 
