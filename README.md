@@ -14,6 +14,5 @@ Content Image             | Style Image             |  Output Image
 
 The second is a Fast Style Transfer algorithm we train a model using the style_content loss extracted using the vgg19 model to train a feed-forward network for image style transfer using a single style reference image. The trained model can quickly style transfer images or video rather than run the entire optimization for each use case. Implemented with tensorflow 2.0 and trained on the Microsoft Coco 2017 dataset which is a large-scale object detection, segmentation, and captioning dataset. The results are not ideal and  would benefit from longer training periods and a better gpu that would allow for larger batches and faster learning.
 
-Content Image             | Style Image             |  Output Image
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="Fast_Style_Transfer//fast_style_transer.png" width="325" /> 
+Model trained on Starry Night -> Changing the 8bit photo -> Style transfered photo
+<img src="Fast_Style_Transfer//fast_style_transer.png" width="800" /> 
